@@ -5,7 +5,7 @@
 
 🌐 Over the course of my journey, I have delved into various domains within the vast realm of computer science. From creating stunning and intuitive web applications to tackling complex algorithms, I thrive on challenges and embrace diverse projects with open arms.
 
-🖥️ As a web developer, I'm well-versed in cutting-edge technologies and frameworks, including HTML, CSS, JavaScript, and more. Crafting visually captivating and user-friendly interfaces is my forte, ensuring seamless experiences for end-users. Whether it's responsive design, front-end development, or back-end functionality, I strive to deliver top-notch solutions that exceed expectations.
+🖥️ As a web and Blockchain developer, I'm well-versed in cutting-edge technologies and frameworks, including HTML, CSS, Tailwind css, JavaScript, React js, Nextjs, Nodejs, Mongo db, ether js, solidity and more. Crafting visually captivating and user-friendly interfaces is my forte, ensuring seamless experiences for end-users. Whether it's responsive design, front-end development, or back-end functionality, I strive to deliver top-notch solutions that exceed expectations.
 
 🚀 Innovation lies at the core of my work. I believe in pushing boundaries and exploring novel approaches to problem-solving. This mindset has enabled me to come up with creative solutions, optimizing processes, and achieving outstanding results for my clients. I'm always eager to contribute my skills to projects that foster innovation and make a meaningful impact.
 
