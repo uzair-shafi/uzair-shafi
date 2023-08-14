@@ -35,7 +35,7 @@
 
  
 
-<h2></h2> How to reach me **uzairshaffi654@gmail.com**</h2>
+<h2></h2>Connect With Me</h2>
 
 <p align="left">
  
