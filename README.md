@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+and+Blockchain+Developer;">
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
+  <img src="https://komarev.com/ghpvc/?username=uzair-shafi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="uzair-shafi" />
 </p>
  
 
@@ -26,11 +26,11 @@
 
 <h2>Github Stats</h2>
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
-  <!--<img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />-->
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=uzair-shafi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <!--<img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=uzair-shafi&theme=tokyonight&hide_border=true" />-->
 </p>
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair-shafi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="uzair-shafi" />
 </p>
 
  
