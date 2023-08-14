@@ -1,15 +1,39 @@
 <h1 align="center">Hi 👋, I'm Uzair Shafi</h1>
-<h3 align="center">A passionate Full Stack Web and Blockchain Developer</h3>
+<h1 align="center"><b>Hi there 👋, I am Ali Mazhar</b></h1>
 
-<p>Welcome to my GitHub profile! I'm a dedicated freelancer and web developer, constantly fueled by my love for technology and computer science. As a lifelong learner, I'm currently pursuing a degree in computer science, seeking to expand my knowledge and skills to new heights.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+and+Blockchain+Developer;">
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=alimazhar4&label=Profile%20Views&color=0e75b6&style=flat-square" alt="alimazhar4" />
+</p>
+ 
 
-🖥️ As a web and Blockchain developer, I'm well-versed in cutting-edge technologies and frameworks, including HTML, CSS, Tailwind css, JavaScript, React js, Nextjs, Nodejs, Mongo db, ether js, solidity and more. Crafting visually captivating and user-friendly interfaces is my forte, ensuring seamless experiences for end-users. Whether it's responsive design, front-end development, or back-end functionality, I strive to deliver top-notch solutions that exceed expectations.
+<h2>About Me</h2>
 
-🚀 Innovation lies at the core of my work. I believe in pushing boundaries and exploring novel approaches to problem-solving. This mindset has enabled me to come up with creative solutions, optimizing processes, and achieving outstanding results for my clients. I'm always eager to contribute my skills to projects that foster innovation and make a meaningful impact.
+```yaml
+{
+  "name": "Uzair Shafi",
+  "age": 21,
+  "location": "Islamabad - Pakistan",
+  "currentlyDoing": "4th Year - Bachelor's of Science in Computer Science (BSCS)",
+  "institute": "National University of Science and Technology (NUST)",
+  "skills": ["React Js", "Next Js", "Node Js", "Mongo DB", "MERN", "Solidity", "WordPress", "Figma", "Adobe Illustrator", "Adobe Photoshop"],
+  "likes": ["Designing", "Music", "Astronomy", "Memes"]
+}
+```
 
-✨ Beyond coding, I have a keen eye for detail and an appreciation for aesthetics. I believe in the power of design to enhance user experiences and leave a lasting impression. When I'm not immersed in coding, you'll find me exploring the latest design trends, seeking inspiration, and refining my creative skills.
+<h2>Github Stats</h2>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=alimazhar4&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
+  <!--<img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=alimazhar4&theme=tokyonight&hide_border=true" />-->
+</p>
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimazhar4&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=c&hide_border=true" alt="alimazhar4" />
+</p>
 
-🌍 Let's connect and embark on exciting projects together! Feel free to explore my repositories, where you'll find a showcase of my work. If you're looking for a passionate freelancer and web developer who is eager to make a difference, let's join forces and bring your ideas to life.</p?
+ 
+
 
 - 📫 How to reach me **uzairshaffi654@gmail.com**
 
