@@ -35,12 +35,10 @@
 
  
 
+<h2></h2> How to reach me **uzairshaffi654@gmail.com**</h2>
 
-- 📫 How to reach me **uzairshaffi654@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
 <p align="left">
-  **uzairshaffi654@gmail.com**
+ 
   
 <a href="https://twitter.com/@itsuzair_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsuzair_here" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uzair shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair shafi" height="30" width="40" /></a>
