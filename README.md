@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=45&center=true&vCenter=true&width=600&height=100&lines=Web+and+Blockchain+Developer;"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Web+and+Blockchain+Developer;"> 
 
  
 
