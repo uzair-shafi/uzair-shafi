@@ -4,11 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+and+Blockchain+Developer;"> 
 
-
-</p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=uzair-shafi&label=Profile%20Views&color=black&style=flat-square" alt="uzair-shafi" />
-</p>
  
 
 <h2>About Me</h2>
