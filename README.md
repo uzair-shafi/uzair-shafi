@@ -15,7 +15,7 @@
   "location": "Islamabad - Pakistan",
   "currentlyDoing": "4th Year - Bachelor's in Computer Science (BSCS)",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": ["React Js", "Next Js", "Node Js", "Mongo DB", "MERN", "Solidity", "WordPress",
+  "skills": ["React Js", "Next Js", "Node Js", "Mongo DB", "MERN", Framer Motion, Three.js "Solidity", ether.js "WordPress",
              "Figma", "Adobe Illustrator", "Adobe Photoshop"],
   "likes": ["Designing", "Music", "Astronomy", "Memes"]
 }
