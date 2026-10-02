@@ -14,10 +14,10 @@
   "age": 24,
   "location": "Faisalabad - Pakistan",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": [Javascript, React.js, Next.js, Typescript, Node.js, Express.js, MERN, Prisma, Rest APIs, Zod, JWT, Spring Boot, Python 
-Flask, Swagger, Docusaurus, Postman, SQL, MongoDB, PostgreSQL , Oracle, Three.js, Babylon.js, Framer Motion, MUI, 
-HeroUI, Shadcn, TailwindCss, WebSockets, GitHub, Ubuntu, Claude, AI Integration & Automations, Payment Gateways, 
-Docker, VPS Configuration, AWS, Vercel, WordPress ],
+  "skills": [Javascript, React.js, Next.js, Typescript, Node.js, Express.js, MERN, Prisma, Rest APIs, Zod, JWT, Spring Boot,
+  Python, Flask, Swagger, Docusaurus, Postman, SQL, MongoDB, PostgreSQL , Oracle, Three.js, Babylon.js, Framer Motion, MUI, 
+  HeroUI, Shadcn, TailwindCss, WebSockets, GitHub, Ubuntu, Claude, AI Integration & Automations, Payment Gateways, 
+  Docker, VPS Configuration, AWS, Vercel, WordPress ]
 }
 ```
 
