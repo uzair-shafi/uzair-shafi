@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Web+and+Blockchain+Developer;"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=cyan&size=35&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Engineer;"> 
 
  
 
@@ -11,13 +11,13 @@
 ```yaml
 {
   "name": "Uzair Shafi",
-  "age": 21,
-  "location": "Islamabad - Pakistan",
-  "currentlyDoing": "4th Year - Bachelor's in Computer Science (BSCS)",
+  "age": 24,
+  "location": "Faisalabad - Pakistan",
   "institute": "National University of Science and Technology (NUST)",
-  "skills": ["React Js", "Next Js", "Node Js", "Mongo DB", "MERN", Framer Motion, Three.js "Solidity", ether.js "WordPress",
-             "Figma", "Adobe Illustrator", "Adobe Photoshop"],
-  "likes": ["Designing", "Music", "Astronomy", "Memes"]
+  "skills": [Javascript, React.js, Next.js, Typescript, Node.js, Express.js, MERN, Prisma, Rest APIs, Zod, JWT, Spring Boot, Python 
+Flask, Swagger, Docusaurus, Postman, SQL, MongoDB, PostgreSQL , Oracle, Three.js, Babylon.js, Framer Motion, MUI, 
+HeroUI, Shadcn, TailwindCss, WebSockets, GitHub, Ubuntu, Claude, AI Integration & Automations, Payment Gateways, 
+Docker, VPS Configuration, AWS, Vercel, WordPress ],
 }
 ```
 
