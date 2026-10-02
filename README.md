@@ -37,10 +37,9 @@
 <p align="left">
  
   
-<a href="https://twitter.com/@itsuzair_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itsuzair_here" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/uzair shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzair shafi" height="30" width="40" /></a>
-<a href="https://instagram.com/i.a.m.uzair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.a.m.uzair" height="30" width="40" /></a>
-<a href="https://www.behance.net/uzair shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="uzair shafi" height="30" width="40" /></a>
+
 </p>
 
 
